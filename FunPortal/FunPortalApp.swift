@@ -11,7 +11,8 @@ import SwiftUI
 struct FunPortalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
+
